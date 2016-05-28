@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7DMMlpIrIIw&list=PLkwWJ5ktXbn4zKUZWSNky7Nz8UZJ_ET0a'
 title: Juliani - Voters vs Vultures ft. Dela
-datePublished: '2016-05-28T18:05:45.477Z'
-dateModified: '2016-05-28T18:05:45.409Z'
+datePublished: '2016-05-28T18:05:52.987Z'
+dateModified: '2016-05-28T17:30:48.799Z'
 starred: false
 sourcePath: _posts/2016-05-28-juliani-voters-vs-vultures-ft-dela.md
 inFeed: true
