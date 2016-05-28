@@ -1,7 +1,7 @@
 ---
-description: 'February 5, 2012A disease called tribalism!potentash : http://www.potentash.com/2012/02/05/a-disease-called-tribalism/It truly was a weapon of mass destruction,And everywhere people were armed. It was a weapon created by the colonialist, Used to divide and rule. Hurray, freedom was granted But the poison was already in our systems.'
-dateModified: '2016-05-28T18:43:05.576Z'
-datePublished: '2016-05-28T18:43:05.657Z'
+description: 'February 5, 2012 A disease called tribalism! potentash : http://www.potentash.com/2012/02/05/a-disease-called-tribalism/  It truly was a weapon of mass destruction, And everywhere people were armed.  It was a weapon created by the colonialist,  Used to divide and rule.  Hurray, freedom was granted  But the poison was already in our systems.'
+dateModified: '2016-05-28T18:40:38.328Z'
+datePublished: '2016-05-28T19:03:14.654Z'
 title: 'A disease called tribalism!'
 author: []
 starred: false
