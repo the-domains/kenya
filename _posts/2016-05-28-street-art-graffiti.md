@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=KV8BK3__ubE'
 title: Street Art - Graffiti
-datePublished: '2016-05-28T18:05:45.388Z'
-dateModified: '2016-05-28T18:05:45.323Z'
+datePublished: '2016-05-28T18:05:52.983Z'
+dateModified: '2016-05-28T17:29:57.422Z'
 starred: false
 sourcePath: _posts/2016-05-28-street-art-graffiti.md
 inFeed: true
