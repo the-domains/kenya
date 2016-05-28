@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://www.youtube.com/watch?v=LPGQm7CzPY8'
 title: 'News:The Culture Of Activism'
-datePublished: '2016-05-28T18:05:44.550Z'
-dateModified: '2016-05-28T18:05:44.410Z'
+datePublished: '2016-05-28T18:05:52.991Z'
+dateModified: '2016-05-28T17:44:55.172Z'
 starred: false
 sourcePath: _posts/2016-05-28-newsthe-culture-of-activism.md
 inFeed: true
