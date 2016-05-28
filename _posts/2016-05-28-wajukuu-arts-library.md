@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=cqbuMEO1zso'
 title: Wajukuu Arts Library
-datePublished: '2016-05-28T18:05:45.615Z'
-dateModified: '2016-05-28T18:05:45.511Z'
+datePublished: '2016-05-28T18:05:52.993Z'
+dateModified: '2016-05-28T17:28:57.836Z'
 starred: false
 sourcePath: _posts/2016-05-28-wajukuu-arts-library.md
 inFeed: true
