@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://africanah.org/street-art-taking-art-to-the-people-2/'
 title: 'Street Art: taking art to the people. - AFRICANAH.ORG'
-datePublished: '2016-05-28T18:05:43.802Z'
-dateModified: '2016-05-28T18:05:43.744Z'
+datePublished: '2016-05-28T18:05:52.976Z'
+dateModified: '2016-05-28T18:00:01.821Z'
 starred: false
 sourcePath: _posts/2016-05-28-street-art-taking-art-to-the-people-africanahorg.md
 inFeed: true
