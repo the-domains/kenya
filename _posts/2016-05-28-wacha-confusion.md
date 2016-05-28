@@ -61,10 +61,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5P-saslWpmo'
 title: Wacha Confusion
-datePublished: '2016-05-28T18:43:05.576Z'
-dateModified: '2016-05-28T18:43:05.504Z'
-starred: false
+datePublished: '2016-05-28T19:00:13.644Z'
+dateModified: '2016-05-28T19:00:12.850Z'
 sourcePath: _posts/2016-05-28-wacha-confusion.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
