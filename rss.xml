@@ -4,8 +4,15 @@
         <description><![CDATA[kenya]]></description>
         <link>https://thegrid.ai/kenya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 18:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 18:43:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kenyan MPs' bonus: Protesters march to parliament - BBC News]]></title>
+            <description><![CDATA[<article><h1>Kenyan MPs' bonus: Protesters march to parliament - BBC News</h1><p>Angry demonstrators in Kenya have marched to parliament to protest about a huge bonus MPs have voted to award themselves. Lawmakers in Kenya are among the highest paid MPs in Africa, receiving a salary of about $10,000 (£6,200) a month.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbd16f75266695ee420b131f221e47dc59253793.jpg"></article>]]></description>
+            <link>http://www.bbc.com/news/world-africa-19885962</link>
+            <guid isPermaLink="false">bf49a6ea-e62a-4a07-95a6-40e84accb327</guid>
+            <pubDate>Sat, 28 May 2016 18:43:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wacha Confusion]]></title>
             <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b09d73af6e8e0aab7d3c7cc01d11da00de07bd0.jpg"></article>]]></description>
@@ -42,13 +49,6 @@
             <pubDate>Sat, 28 May 2016 18:05:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[eCitizen | A portal that offers access to information and services provided by the Kenyan Gorvernment]]></title>
-            <description><![CDATA[<article><h1>eCitizen | A portal that offers access to information and services provided by the Kenyan Gorvernment</h1><p>Kenyan Citizens and Foreign Residents can now apply for Government to Citizen (G2C) services and pay via mobile money, debit Cards and eCitizen agents.</p></article>]]></description>
-            <link>https://www.ecitizen.go.ke/ecitizen-services.html</link>
-            <guid isPermaLink="false">1ccb2926-6920-435e-b011-dbb41e6a9ff3</guid>
-            <pubDate>Sat, 28 May 2016 18:05:52 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[If This Country Burns, We Burn With It - Kuweni Serious]]></title>
             <description><![CDATA[<article><h1>If This Country Burns, We Burn With It - Kuweni Serious</h1><p>Kuweni Serious - Fighting the EVIL powers of apathy http://www.kuweniserious.org Featuring a random sampling of Kenyans. Produced/Directed by Mbithi Masya and Jim Chuchu for Kuweni Serious. Edited by Mbithi Masya. Narration by Bill Sellanga, words and music by Jim Chuchu. --- There is a difference between the one who rents a house, and the one who owns a house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/144d0fc48216c721307fb5af81bedc41ed02d83f.jpg"></article>]]></description>
             <link>http://www.youtube.com/watch?v=DCpfXbCjM5c</link>
@@ -70,10 +70,10 @@
             <pubDate>Sat, 28 May 2016 18:05:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sheria by Sarabi Band Feat. Juliani]]></title>
-            <description><![CDATA[<article><h1>Sheria by Sarabi Band Feat. Juliani</h1><p>Fuata Sheria is about the state of Kenya's politics and of the failure of Kenya's citizens to take responsibility for their contribution to the corrupt status quo. The song is a call on Kenyans to retrospect and judge, not just the political leaders, but to judge themselves as well, and to 'fuata sheria' , to respect the rule of law.</p></article>]]></description>
-            <link>https://www.youtube.com/watch?v=8QGx_6lMjGI&amp;index=3&amp;list=PLkwWJ5ktXbn4zKUZWSNky7Nz8UZJ_ET0a</link>
-            <guid isPermaLink="false">d649f0fb-7244-4bde-8e64-2ad1f1b15058</guid>
+            <title><![CDATA[eCitizen | A portal that offers access to information and services provided by the Kenyan Gorvernment]]></title>
+            <description><![CDATA[<article><h1>eCitizen | A portal that offers access to information and services provided by the Kenyan Gorvernment</h1><p>Kenyan Citizens and Foreign Residents can now apply for Government to Citizen (G2C) services and pay via mobile money, debit Cards and eCitizen agents.</p></article>]]></description>
+            <link>https://www.ecitizen.go.ke/ecitizen-services.html</link>
+            <guid isPermaLink="false">1ccb2926-6920-435e-b011-dbb41e6a9ff3</guid>
             <pubDate>Sat, 28 May 2016 18:05:52 GMT</pubDate>
         </item>
     </channel>
