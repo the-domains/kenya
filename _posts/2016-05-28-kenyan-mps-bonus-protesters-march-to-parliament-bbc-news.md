@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bbc.com/news/world-africa-19885962'
 title: "Kenyan MPs' bonus: Protesters march to parliament - BBC News"
-datePublished: '2016-05-28T18:43:05.679Z'
-dateModified: '2016-05-28T18:43:05.604Z'
+datePublished: '2016-05-28T19:03:14.651Z'
+dateModified: '2016-05-28T18:37:32.567Z'
 starred: false
 sourcePath: _posts/2016-05-28-kenyan-mps-bonus-protesters-march-to-parliament-bbc-news.md
 inFeed: true
