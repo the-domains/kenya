@@ -11,10 +11,10 @@ description: 'Kenyan Citizens and Foreign Residents can now apply for Government
 app_links: []
 isBasedOnUrl: 'https://www.ecitizen.go.ke/ecitizen-services.html'
 title: 'eCitizen | A portal that offers access to information and services provided by the Kenyan Gorvernment'
-datePublished: '2016-05-28T18:05:52.991Z'
-dateModified: '2016-05-28T17:44:27.291Z'
-starred: false
+datePublished: '2016-05-28T19:00:23.033Z'
+dateModified: '2016-05-28T19:00:22.736Z'
 sourcePath: _posts/2016-05-28-ecitizen-or-a-portal-that-offers-access-to-information-and-se.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
