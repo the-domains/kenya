@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://sautimtaani.co.ke/'
 title: 'Home | Sauti Mtaaani | Sauti Mtaani'
-datePublished: '2016-05-28T18:05:44.226Z'
-dateModified: '2016-05-28T18:05:44.183Z'
+datePublished: '2016-05-28T18:05:52.978Z'
+dateModified: '2016-05-28T17:46:11.410Z'
 starred: false
 sourcePath: _posts/2016-05-28-home-or-sauti-mtaaani-or-sauti-mtaani.md
 inFeed: true
