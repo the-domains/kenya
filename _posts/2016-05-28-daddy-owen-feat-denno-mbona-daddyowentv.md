@@ -14,8 +14,8 @@ description: 'Mbona - Daddy Owen feat. Denno http://www.kenyandownloads.com/dadd
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=nMvqSjdSJJw'
 title: 'Daddy Owen feat. Denno - Mbona [DaddyOwenTV]'
-datePublished: '2016-05-28T18:05:43.503Z'
-dateModified: '2016-05-28T18:05:43.443Z'
+datePublished: '2016-05-28T18:05:52.966Z'
+dateModified: '2016-05-28T18:01:43.546Z'
 starred: false
 sourcePath: _posts/2016-05-28-daddy-owen-feat-denno-mbona-daddyowentv.md
 inFeed: true
