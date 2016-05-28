@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.dialogues.sidint.net/'
 title: Society for International Development Forum
-datePublished: '2016-05-28T18:05:45.012Z'
-dateModified: '2016-05-28T18:05:44.950Z'
+datePublished: '2016-05-28T18:05:52.992Z'
+dateModified: '2016-05-28T17:32:55.386Z'
 starred: false
 sourcePath: _posts/2016-05-28-society-for-international-development-forum.md
 inFeed: true
