@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kenya]]></title>
+        <description><![CDATA[kenya]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 May 2016 17:44:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[eCitizen - Gateway to All Government Services]]></title>
+            <description><![CDATA[<article><h1>eCitizen - Gateway to All Government Services</h1><p>Official Digital payments platform that enables Kenyan citizens , residents and visitors access and pay for government services online.</p></article>]]></description>
+            <link>https://account.ecitizen.go.ke/login</link>
+            <guid isPermaLink="false">df4950e8-8f42-41ee-a8b8-2501f84a55bc</guid>
+            <pubDate>Sat, 28 May 2016 17:44:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
