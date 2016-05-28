@@ -1,18 +1,18 @@
 ---
 description: 'What is Kenya Ni Kwetu all about? We are a nonpartisan and independent effort of young Kenyans working to bring together active citizens who think critically, vote wisely, and want to bring about a better Kenya -- to get organised and take action.'
-dateModified: '2016-05-28T18:18:02.811Z'
-datePublished: '2016-05-28T18:18:03.833Z'
+dateModified: '2016-05-28T19:00:06.308Z'
+datePublished: '2016-05-28T19:00:06.983Z'
 title: Kenya ni Kwetu
 author: []
 sourcePath: _posts/2016-05-28-kenya-ni-kwetu.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b3e24d-b7cf-4d21-ba2e-f60d11bbe41a.jpg" /><h1>Kenya ni Kwetu</h1><p>Join our growing community of patriotic Kenyans: active citizens, voting wisely, for peace, against vultures, against tribalism, and working towards a better Kenya.</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e57a52c8-030d-40aa-ae1b-695fc059c7d2.png" /><h1>Kenya ni Kwetu</h1><p>Join our growing community of patriotic Kenyans: active citizens, voting wisely, for peace, against vultures, against tribalism, and working towards a better Kenya.</p></article>
 
 What is Kenya Ni Kwetu all about? We are a nonpartisan and independent effort of young Kenyans working to bring together active citizens who think critically, vote wisely, and want to bring about a better Kenya -- to get organised and take action.
 
