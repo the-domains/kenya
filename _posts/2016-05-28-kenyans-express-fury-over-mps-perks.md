@@ -14,8 +14,8 @@ description: 'Streaming LIVE from Kenya at ktnkenya.tv. Enough is enough- this i
 app_links: []
 isBasedOnUrl: 'http://www.youtube.com/watch?v=8Gu1km456K4'
 title: "Kenyans express fury over MPs' perks"
-datePublished: '2016-05-28T18:05:44.619Z'
-dateModified: '2016-05-28T18:05:44.575Z'
+datePublished: '2016-05-28T18:05:52.992Z'
+dateModified: '2016-05-28T17:44:47.500Z'
 starred: false
 sourcePath: _posts/2016-05-28-kenyans-express-fury-over-mps-perks.md
 inFeed: true
