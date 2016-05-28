@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=NwjeIlKJ81w'
 title: Duracoat Spray For Change commissioned by UNEP
-datePublished: '2016-05-28T18:05:43.477Z'
-dateModified: '2016-05-28T18:05:43.431Z'
+datePublished: '2016-05-28T18:05:52.953Z'
+dateModified: '2016-05-28T18:03:00.688Z'
 starred: false
 sourcePath: _posts/2016-05-28-duracoat-spray-for-change-commissioned-by-unep.md
 inFeed: true
