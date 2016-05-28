@@ -4,8 +4,20 @@
         <description><![CDATA[kenya]]></description>
         <link>https://thegrid.ai/kenya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 18:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 18:06:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenya/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/sautimtaani/</link>
+            <guid isPermaLink="false">2dfdbcee-213b-43a3-b667-dda5b6ed4f5b</guid>
+            <pubDate>Sat, 28 May 2016 18:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/Mustard-Seeds-Community-Based-Organization-1434913770079922/?fref=ts</link>
+            <guid isPermaLink="false">02b1fb27-8c4a-46d5-8f60-ebc5d1fc3a68</guid>
+            <pubDate>Sat, 28 May 2016 18:05:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home | Sauti Mtaaani | Sauti Mtaani]]></title>
             <description><![CDATA[<article><h1>Home | Sauti Mtaaani | Sauti Mtaani</h1><p>Sauti Mtaani is a unique and innovative platform that seeks to promote engagement between youth and their respective Members of County Assembly (MCAs). ThroughSauti Mtaani, youth are able to communicate with their MCAs by sending text messages from their Safaricom lines to the short code 21393 free of charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88117f8589beb2af84693f69eeb92cb427ab4d0c.jpg"></article>]]></description>
@@ -58,20 +70,6 @@
             <link>https://www.youtube.com/watch?v=nMvqSjdSJJw</link>
             <guid isPermaLink="false">7bddfa9d-3adb-4237-a712-540c41667ec6</guid>
             <pubDate>Sat, 28 May 2016 18:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duracoat Spray For Change commissioned by UNEP]]></title>
-            <description><![CDATA[<article><h1>Duracoat Spray For Change commissioned by UNEP</h1><p>Renowned graffiti artists from Duracoat's "Spray for Change" initiative have created an exciting art installation to be exhibited during UNEP's Global South-South Conference in Nairobi this month. Wise Two, Bankslave, Swift and Uhuru B completed the custom art installation that evokes a sense of hope and optimism about a future free of lead poisoning, something easily achievable with collective effort.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83e731c15656a38338f35c616f5106826d5cf960.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=NwjeIlKJ81w</link>
-            <guid isPermaLink="false">97e3d5cb-d83a-44c3-83f6-f93bb2f71edf</guid>
-            <pubDate>Sat, 28 May 2016 18:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eCitizen - Gateway to All Government Services]]></title>
-            <description><![CDATA[<article><h1>eCitizen - Gateway to All Government Services</h1><p>Official Digital payments platform that enables Kenyan citizens , residents and visitors access and pay for government services online.</p></article>]]></description>
-            <link>https://account.ecitizen.go.ke/login</link>
-            <guid isPermaLink="false">df4950e8-8f42-41ee-a8b8-2501f84a55bc</guid>
-            <pubDate>Sat, 28 May 2016 17:44:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
