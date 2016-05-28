@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.npr.org/2013/02/19/171916072/kenyas-graffiti-train-seeks-to-promote-a-peaceful-election'
 title: "Kenya's Graffiti Train Seeks To Promote A Peaceful Election"
-datePublished: '2016-05-28T18:05:43.803Z'
-dateModified: '2016-05-28T18:05:43.737Z'
+datePublished: '2016-05-28T18:05:52.967Z'
+dateModified: '2016-05-28T18:01:03.951Z'
 starred: false
 sourcePath: _posts/2016-05-28-kenyas-graffiti-train-seeks-to-promote-a-peaceful-election.md
 inFeed: true
