@@ -14,8 +14,8 @@ description: 'Kuweni Serious - Fighting the EVIL powers of apathy http://www.kuw
 app_links: []
 isBasedOnUrl: 'http://www.youtube.com/watch?v=DCpfXbCjM5c'
 title: 'If This Country Burns, We Burn With It - Kuweni Serious'
-datePublished: '2016-05-28T18:05:44.661Z'
-dateModified: '2016-05-28T18:05:44.617Z'
+datePublished: '2016-05-28T18:05:52.991Z'
+dateModified: '2016-05-28T17:44:38.199Z'
 starred: false
 sourcePath: _posts/2016-05-28-if-this-country-burns-we-burn-with-it-kuweni-serious.md
 inFeed: true
