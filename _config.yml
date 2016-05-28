@@ -6,9 +6,9 @@ color:
   saturation: 0.04321686155162752
   rhythmicContrast: 0.32649254566058517
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
 name: kenya
