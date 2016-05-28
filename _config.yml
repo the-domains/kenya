@@ -1,0 +1,14 @@
+layout_spectrum: 0.9911397583782673
+typography_spectrum: 0.2136285414453596
+color:
+  brandStrength: 0.8962163736578077
+  lightness: 0.71996228559874
+  saturation: 0.04321686155162752
+  rhythmicContrast: 0.32649254566058517
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: kenya
