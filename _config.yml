@@ -1,15 +1,15 @@
-layout_spectrum: 0.07856406713835895
-typography_spectrum: 0.5192931497003883
+layout_spectrum: 0.4975017465185374
+typography_spectrum: 0.9336498186457902
 color:
-  brandStrength: 0.7682028149720281
-  lightness: 0.5810902009252459
-  saturation: 0.17758896481245756
-  rhythmicContrast: 0.9594928966835141
+  brandStrength: 0.6575209253933281
+  lightness: 0.27899034856818616
+  saturation: 0.1261262153275311
+  rhythmicContrast: 0.9102240321226418
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: kenya
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/70ada0a9-5671-4aa4-9ea8-20df5b49fa0d.png'
