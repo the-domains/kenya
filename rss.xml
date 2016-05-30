@@ -4,7 +4,7 @@
         <description><![CDATA[kenya]]></description>
         <link>https://thegrid.ai/kenya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 10:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 10:24:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Storify - Create stories using social media]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=5P-saslWpmo</link>
             <guid isPermaLink="false">5d3c350a-5acd-4751-b4a2-47a371c023bf</guid>
             <pubDate>Sat, 28 May 2016 19:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KenyaNiKwetu Street Interviews 2]]></title>
+            <description><![CDATA[<article><h1>KenyaNiKwetu Street Interviews 2</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/922b081662ace4bb31d4cb556ef11ab5f1a18cc1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_pwi5FgKO7I&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d1c9864f-3a85-4186-a909-5ee02157c54d</guid>
+            <pubDate>Mon, 30 May 2016 10:23:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Waititu Instant justice]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b09d73af6e8e0aab7d3c7cc01d11da00de07bd0.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=5P-saslWpmo</link>
             <guid isPermaLink="false">d42d1583-fbc5-4082-91c1-62731e13176c</guid>
-            <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OCCUPY PARLIAMENT (with images, tweets) · knk]]></title>
-            <description><![CDATA[<article><h1>OCCUPY PARLIAMENT (with images, tweets) · knk</h1><p>The Civil Society has just concluded staging the Occupy Parliament Reloaded protests demonstrating about the high pay rise of Kenyan Members of parliament. Unlike the previous protest, today's has no live pigs but rather one huge pig dummy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aca950e201a8520b77ec0a254842060efb8a2804.jpg"></article>]]></description>
-            <link>https://storify.com/knk/occupy-parliament</link>
-            <guid isPermaLink="false">735311c6-e209-419c-976e-9a3d1e43c88e</guid>
             <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
         </item>
     </channel>
