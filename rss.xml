@@ -4,7 +4,7 @@
         <description><![CDATA[kenya]]></description>
         <link>https://thegrid.ai/kenya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 10:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 10:23:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Storify - Create stories using social media]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Sat, 28 May 2016 19:00:13 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KenyaNiKwetu Street Interviews 3]]></title>
+            <description><![CDATA[<article><h1>KenyaNiKwetu Street Interviews 3</h1><p>Uploaded by James Quest on 2012-12-28.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c14260908ccbbe3d832861d191fd6100eb0ec74.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=AFxZC3anSNQ&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">bef5e49b-31c2-4f87-b0ac-5589316280b7</guid>
+            <pubDate>Mon, 30 May 2016 10:23:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rufftone and The GSU - Mungu Baba]]></title>
             <description><![CDATA[<article><h1>Rufftone and The GSU - Mungu Baba</h1><p>Music video of Rufftone and the GSU performing their song Mungu Baba, accompanied by the National Youth Orchestra of Kenya and the Tuvuke Peace initiative. Audio by Lampstand Records Video by Lampstand Videoz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61aaea0ed167968d76c2f22f8e0c7e7868c60474.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=kVQVwaZU5MM</link>
@@ -42,17 +49,17 @@
             <pubDate>Mon, 30 May 2016 10:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wacha Confusion]]></title>
-            <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b09d73af6e8e0aab7d3c7cc01d11da00de07bd0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5P-saslWpmo</link>
-            <guid isPermaLink="false">d42d1583-fbc5-4082-91c1-62731e13176c</guid>
-            <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de95f16e-9e2b-40d0-a2d2-3914c0f9b18a.png">]]></description>
             <link>https://thegrid.ai/kenya/eae2358c-3a3c-4468-aa13-d2644a1971ef/index.html</link>
             <guid isPermaLink="false">eae2358c-3a3c-4468-aa13-d2644a1971ef</guid>
+            <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wacha Confusion]]></title>
+            <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b09d73af6e8e0aab7d3c7cc01d11da00de07bd0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=5P-saslWpmo</link>
+            <guid isPermaLink="false">d42d1583-fbc5-4082-91c1-62731e13176c</guid>
             <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.bbc.com/news/world-africa-19885962</link>
             <guid isPermaLink="false">7aa371fe-850b-46c4-9da6-309764b6ab0c</guid>
             <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KenyaNiKwetu Street Interviews 2]]></title>
-            <description><![CDATA[<article><h1>KenyaNiKwetu Street Interviews 2</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/922b081662ace4bb31d4cb556ef11ab5f1a18cc1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_pwi5FgKO7I&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">71683d48-9866-4181-b583-7a99b495eff7</guid>
-            <pubDate>Sat, 28 May 2016 18:43:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
