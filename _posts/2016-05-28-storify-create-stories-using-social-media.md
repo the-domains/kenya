@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://storify.com/knk'
 title: Storify - Create stories using social media
-datePublished: '2016-05-28T19:03:14.651Z'
-dateModified: '2016-05-28T18:59:32.597Z'
-starred: false
+datePublished: '2016-05-30T10:21:29.447Z'
+dateModified: '2016-05-30T10:21:28.745Z'
 sourcePath: _posts/2016-05-28-storify-create-stories-using-social-media.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
