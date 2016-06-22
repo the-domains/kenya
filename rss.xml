@@ -4,7 +4,7 @@
         <description><![CDATA[kenya]]></description>
         <link>https://thegrid.ai/kenya/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 10:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 12:53:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenya/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Storify - Create stories using social media]]></title>
@@ -29,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Wacha Confusion]]></title>
-            <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b09d73af6e8e0aab7d3c7cc01d11da00de07bd0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/04476dd08ff7302a5aea337364b31d2f/croprotate.jpg?cropheight=343&cropwidth=464&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F5P-saslWpmo%2Fhqdefault.jpg&x=8&y=8"></article>]]></description>
             <link>https://www.youtube.com/watch?v=5P-saslWpmo</link>
             <guid isPermaLink="false">5d3c350a-5acd-4751-b4a2-47a371c023bf</guid>
             <pubDate>Sat, 28 May 2016 19:00:13 GMT</pubDate>
@@ -42,13 +42,6 @@
             <pubDate>Mon, 30 May 2016 10:23:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Waititu Instant justice]]></title>
-            <description><![CDATA[<article><h1>Waititu Instant justice</h1><p>Kenyan Animation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e904c92015dedae5564a379d2972cf6aa8882a51.jpg"></article>]]></description>
-            <link>http://www.youtube.com/watch?v=EL2g-RSSttQ</link>
-            <guid isPermaLink="false">8dfa6a25-8149-4624-8fb9-eb2e21e8d238</guid>
-            <pubDate>Mon, 30 May 2016 10:23:08 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[KenyaNiKwetu Street Interviews 3]]></title>
             <description><![CDATA[<article><h1>KenyaNiKwetu Street Interviews 3</h1><p>Uploaded by James Quest on 2012-12-28.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c14260908ccbbe3d832861d191fd6100eb0ec74.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=AFxZC3anSNQ&amp;feature=youtu.be</link>
@@ -56,24 +49,10 @@
             <pubDate>Mon, 30 May 2016 10:23:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rufftone and The GSU - Mungu Baba]]></title>
-            <description><![CDATA[<article><h1>Rufftone and The GSU - Mungu Baba</h1><p>Music video of Rufftone and the GSU performing their song Mungu Baba, accompanied by the National Youth Orchestra of Kenya and the Tuvuke Peace initiative. Audio by Lampstand Records Video by Lampstand Videoz</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61aaea0ed167968d76c2f22f8e0c7e7868c60474.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=kVQVwaZU5MM</link>
-            <guid isPermaLink="false">ed23a461-af8f-4e70-9117-3d82e37c485f</guid>
-            <pubDate>Mon, 30 May 2016 10:23:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de95f16e-9e2b-40d0-a2d2-3914c0f9b18a.png">]]></description>
             <link>https://thegrid.ai/kenya/eae2358c-3a3c-4468-aa13-d2644a1971ef/index.html</link>
             <guid isPermaLink="false">eae2358c-3a3c-4468-aa13-d2644a1971ef</guid>
-            <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wacha Confusion]]></title>
-            <description><![CDATA[<article><h1>Wacha Confusion</h1><p>Kitu cha muhimu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b09d73af6e8e0aab7d3c7cc01d11da00de07bd0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5P-saslWpmo</link>
-            <guid isPermaLink="false">d42d1583-fbc5-4082-91c1-62731e13176c</guid>
             <pubDate>Sat, 28 May 2016 19:03:14 GMT</pubDate>
         </item>
     </channel>
