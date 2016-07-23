@@ -1,14 +1,7 @@
 ---
-author:
-  - name: kenyamusica
-    url: 'https://www.youtube.com/user/kenyamusica'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-07-23T17:57:08.979Z'
+sourcePath: _posts/2016-05-28-rufftone-and-the-gsu-mungu-baba.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=kVQVwaZU5MM'
 keywords:
   - duration
   - views
@@ -20,8 +13,13 @@ keywords:
   - mungu
   - muciari
   - syke
-description: 'Music video of Rufftone and the GSU performing their song Mungu Baba, accompanied by the National Youth Orchestra of Kenya and the Tuvuke Peace initiative. Audio by Lampstand Records Video by Lampstand Videoz'
-inLanguage: en
+related: []
+author:
+  - name: kenyamusica
+    url: 'https://www.youtube.com/user/kenyamusica'
+    avatar: {}
+dateModified: '2016-07-23T17:57:08.254Z'
+title: 'Music video: Mungu Baba'
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=kVQVwaZU5MM&feature=applinks'
     type: ios
@@ -59,17 +57,25 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=kVQVwaZU5MM'
-title: Rufftone and The GSU - Mungu Baba
-datePublished: '2016-05-28T18:43:06.103Z'
-dateModified: '2016-05-28T18:43:06.030Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: >-
+  Music video of Rufftone and the GSU performing their song Mungu Baba,
+  accompanied by the National Youth Orchestra of Kenya and the Tuvuke Peace
+  initiative. Audio by Lampstand Records Video by Lampstand Videoz
+inLanguage: en
+via: {}
 starred: false
-sourcePath: _posts/2016-05-28-rufftone-and-the-gsu-mungu-baba.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
+# Music video: Mungu Baba
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkVQVwaZU5MM%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkVQVwaZU5MM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkVQVwaZU5MM%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
