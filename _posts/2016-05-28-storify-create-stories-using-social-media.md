@@ -1,14 +1,7 @@
 ---
-author:
-  - name: 'http://www.kenyanikwetu.org'
-    url: 'http://www.kenyanikwetu.org'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://storify.com'
-  name: Storify
-  favicon: 'https://storify.com/favicon.ico'
-  domain: storify.com
+datePublished: '2016-07-23T18:05:41.082Z'
+sourcePath: _posts/2016-05-28-storify-create-stories-using-social-media.md
+isBasedOnUrl: 'https://storify.com/knk'
 keywords:
   - kenyans
   - storify
@@ -20,14 +13,22 @@ keywords:
   - achieng
   - pawa
   - pawa254
-description: 'Fostering alternative media in Kenya. Based at Pawa254. Stories by Susan Achieng, Sasha Kinney, and the Kenya Ni Kwetu team.'
-inLanguage: en
+related: []
+author:
+  - name: 'http://www.kenyanikwetu.org'
+    url: 'http://www.kenyanikwetu.org'
+    avatar: {}
+dateModified: '2016-07-23T18:05:40.449Z'
+title: Stories
 app_links: []
-isBasedOnUrl: 'https://storify.com/knk'
-title: Storify - Create stories using social media
-datePublished: '2016-05-30T10:21:29.447Z'
-dateModified: '2016-05-30T10:21:28.745Z'
-sourcePath: _posts/2016-05-28-storify-create-stories-using-social-media.md
+publisher:
+  url: 'https://storify.com'
+  name: Storify
+  favicon: 'https://storify.com/favicon.ico'
+  domain: storify.com
+description: ''
+inLanguage: en
+via: {}
 starred: true
 inFeed: true
 hasPage: false
@@ -36,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Storify - Create stories using social media</h1><p>Fostering alternative media in Kenya. Based at Pawa254. Stories by Susan Achieng, Sasha Kinney, and the Kenya Ni Kwetu team.</p><img src="http://storify.com/public/img/logo-square.jpg" /></article>
+# Stories
